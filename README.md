@@ -4,7 +4,13 @@
 
  _Breadth-first search, Depth-first search, Best-first search, A-Star search algorithms and AVL Trees implemented in C_
 
-For explanation of the entire code and results see the  [paper (59 pages) <img src="img/start_page.png" alt= “” width="12%" > ](https://drive.google.com/file/d/1QkLSCXCTiIJq6H3SxUDSYmt1hnOC6S2y/view?usp=sharing) .
+For explanation of the entire code and results see the  [paper (59 pages)  ](https://drive.google.com/file/d/1QkLSCXCTiIJq6H3SxUDSYmt1hnOC6S2y/view?usp=sharing) .
+
+
+[<img src="/img/start_page.png" alt= “” width="20%" style="display: block; margin: 0 auto">](https://drive.google.com/file/d/1QkLSCXCTiIJq6H3SxUDSYmt1hnOC6S2y/view?usp=sharing)
+
+
+
 
 ## Integer Register Processor
 
