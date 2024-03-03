@@ -1,0 +1,12 @@
+﻿  AI_algorithms.c
+C:\Users\basil\Documents\Visual_Studio_and_JetBrains\UOM_AI\REGISTERS\REGISTERS\AI_algorithms.c(214,35): warning C4090: 'function': different 'const' qualifiers
+  AVL_Tree.c
+  Forehead_AVL.c
+  Forehead_List.c
+  register.c
+  Search_Tree.c
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 62 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  REGISTERS.vcxproj -> C:\Users\basil\Documents\Visual_Studio_and_JetBrains\UOM_AI\REGISTERS\x64\Release\REGISTERS.exe
