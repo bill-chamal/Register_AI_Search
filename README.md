@@ -1,10 +1,10 @@
-# ai_search_alg
+# Register_AI_Search
 
 
 
- Breadth-first search, Depth-first search, Best-first search, A-Star search algorithms and AVL Trees implemented in C
+ _Breadth-first search, Depth-first search, Best-first search, A-Star search algorithms and AVL Trees implemented in C_
 
-For explanation of the entire code and results see the  (paper)[https://drive.google.com/file/d/1QkLSCXCTiIJq6H3SxUDSYmt1hnOC6S2y/view?usp=sharing] (59 pages).
+For explanation of the entire code and results see the  [paper](https://drive.google.com/file/d/1QkLSCXCTiIJq6H3SxUDSYmt1hnOC6S2y/view?usp=sharing) (59 pages).
 
 ## Integer Register Processor
 
@@ -137,17 +137,14 @@ Microsoft Visual Studio Community 2022 version 17.9.0 Preview 1.0 was used to wr
 
 # GNU GENERAL PUBLIC LICENSE
 
-    *Copyright (C) 2024 Bill Chamalidis*
-
-    This program is free software: you can redistribute it and/or modify
-    it under the terms of the GNU General Public License as published by
-    the Free Software Foundation, either version 3 of the License, or
-    (at your option) any later version.
-
-    This program is distributed in the hope that it will be useful,
-    but WITHOUT ANY WARRANTY; without even the implied warranty of
-    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-    GNU General Public License for more details.
-
-    You should have received a copy of the GNU General Public License
-    along with this program.  If not, see <https://www.gnu.org/licenses/>.
+__Copyright (C) 2024 Bill Chamalidis__
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <https://www.gnu.org/licenses/>.
